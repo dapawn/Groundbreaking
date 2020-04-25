@@ -5,9 +5,9 @@ For first meetup and guideline
 
 Note: You are encouraged to do all of the followings with github CLI, although you are allowed to do it in the GUI. 
 
-1: Clone down the repo and make a branch from master and name it the format <githubId>-firstMtg
+1: Clone down the repo and make a branch from master and name it the format githubId-firstMtg
 
-2: Make a branch from the branch you just created and name it the format <githubId>-firstMtg-working  
+2: Make a branch from the branch you just created and name it the format githubId-firstMtg-working  
 
 3: in your working branch, create a folder and name it your <name-info>, inside the folder, create a `README.md` file
 
