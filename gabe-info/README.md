@@ -12,7 +12,7 @@
 
 ### List 10 ideas that you want to make it into an app and share with the group. 
  - A customizable to-do list application that is open source.  Data would be stored privately (locally, or on your own Github repo?)
- - A portfolio site generator application.  
+ - A portfolio site generator application.  2 parts: 1st part is users select a portfolio template and input their info to generate a portfolio site.  2nd part is educational and interactive; you learn about creating the site and create a custom template yourself that is added to the template library.  
  - A Technical documentation project that teaches how to create MERN stack projects.  Users would learn and practice by potentially contributing to the documentation themselves
  - An app to find services and/or products from small local businesses.  Users can report products and services and other users can verify.  Crowd-source the information used
  - A playlist sharing app/music taste social media app (something like lastFM x what Myspace was at its peak) -- Paul's idea
