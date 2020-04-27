@@ -1,4 +1,4 @@
-###What is a Mern stack in your own word
+### What is a Mern stack in your own word
 
 Mern stack  is a Javascript Stack thatis used to develop full stack applications in a fast was. It contains MongoDB, Express, rest and node.js 
 
