@@ -29,7 +29,7 @@ Note: You are encouraged to do all of the followings with github CLI, although y
 ### Is Saturday afternoon 4pm always the best for meeting?
 
 ### Please share some links to your portfolio, personal website, works that you aree proud of. 
-
+  
 ```
 
 Once you are done makee a pull request and request other members to review your stuff and ask at least 3 people to approve your branch after. 
